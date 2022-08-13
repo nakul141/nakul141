@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Nakul <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
 
 
-- 🔭 I’m currently working on Full Stack Developer.
+- 🔭 I’m currently working as Full Stack Developer.
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love playing Chess even though i am noob in chess
 
